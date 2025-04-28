@@ -19,8 +19,6 @@ muOS theme based on Rezolution by Rosabel
 - Mustard (only standard)
 ## Installation
 
-### From the **Releases** page
-
 1. Head over to the [Releases](https://github.com/bulkh/OneTwo/releases) page
 2. Find the most recent release
 3. Download the muxthm file with the variant you want
