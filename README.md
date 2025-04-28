@@ -7,7 +7,7 @@ muOS theme based on Rezolution by Rosabel
 - 720x720
 - 1280x720*
 
-*I made 1280x720 resolution to look nice on HDMI output, so on TrimUI Smart Pro scaling will look too tiny. Will add support for it later, when it will be official supported by muOS.
+*I made 1280x720 resolution to look nice on HDMI output, so on TrimUI Smart Pro scaling will look too tiny. Will add support for it later, when it will be officialy supported by muOS.
 
 ### Color schemes:
 - Dark
