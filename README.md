@@ -21,7 +21,7 @@ muOS theme based on Rezolution by Rosabel
 
 ### From the **Releases** page
 
-1. Head over to the **Releases** page : [link](https://github.com/bulkh/OneTwo/releases)
+1. Head over to the [Releases](https://github.com/bulkh/OneTwo/releases) page
 2. Find the most recent release
 3. Download the muxthm file with the variant you want
 4. Move it to `/MUOS/theme/` (on the `SD2`, or `SD1` if you use only one card)
