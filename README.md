@@ -27,6 +27,8 @@ muOS theme based on Rezolution by Rosabel
 > [!TIP]
 > For best look you should set Overlay Transparency (in Interface Options) to 255, or you can turn it off by setting to 0
 
+If you want to change something, you can do it in Figma by copying [project](https://www.figma.com/design/8hm9YQcy0a1kUIxl1T7SKW/OneTwo?node-id=0-1&t=K41jUL3nJoVDzw4Q-1)
+
 ## Previews
 ![Preview 1](https://github.com/bulkh/OneTwo/blob/main/preview/preview1.png)![Preview 2](https://github.com/bulkh/OneTwo/blob/main/preview/preview2.png)
 ![Preview 3](https://github.com/bulkh/OneTwo/blob/main/preview/preview3.png)
