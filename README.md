@@ -25,7 +25,8 @@ muOS theme based on Rezolution by Rosabel
 4. Move it to `/MUOS/theme/` (on the `SD2`, or `SD1` if you use only one card)
 5. Apply the theme from the **Theme Picker**
 > [!TIP]
-> For best look you should set Overlay Transparency (in Interface Options) to 255, or you can turn it off by setting to 0
+> For best look you should set Overlay Transparency (in Interface Options) to 100%, or you can turn it off by setting to 0
+> In game sound and brightness bar are designed to be on the right or left side, so you better not to set it in center. I persanally prefer them to be on the top left corner.
 
 If you want to change something, you can do it in Figma by copying [project](https://www.figma.com/design/8hm9YQcy0a1kUIxl1T7SKW/OneTwo?node-id=0-1&t=K41jUL3nJoVDzw4Q-1)
 
