@@ -5,9 +5,11 @@ muOS theme based on Rezolution by Rosabel
 - 640x480
 - 720x480
 - 720x720
+- 1024x768 (separate file TUI file)
 - 1280x720*
 
-*I made 1280x720 resolution to look nice on HDMI output, so on TrimUI Smart Pro scaling will look too tiny. Will add support for it later, when it will be officialy supported by muOS.
+*I made 1280x720 resolution to look nice on HDMI output, so on TrimUI Smart Pro scaling will look too tiny
+No support for TUISP yet..
 
 ### Color schemes:
 - Dark
@@ -26,7 +28,7 @@ muOS theme based on Rezolution by Rosabel
 5. Apply the theme from the **Theme Picker**
 > [!TIP]
 > For best look you should set Overlay Transparency (in Interface Options) to 100%, or you can turn it off by setting to 0
-> In game sound and brightness bar are designed to be on the right or left side, so you better not to set it in center. I persanally prefer them to be on the top left corner.
+> In game sound and brightness bar are designed to be on the right or left side, so you better not to set it in center. I persanally prefer them to be on the top left corner. Battery overlay can be wherever you like.
 
 If you want to change something, you can do it in Figma by copying [project](https://www.figma.com/design/8hm9YQcy0a1kUIxl1T7SKW/OneTwo?node-id=0-1&t=K41jUL3nJoVDzw4Q-1)
 
