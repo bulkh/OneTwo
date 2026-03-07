@@ -5,7 +5,7 @@ muOS theme based on Rezolution by Rosabel
 - 640x480
 - 720x480
 - 720x720
-- 1024x768 (separate file TUI file)
+- 1024x768 (separate TUI file)
 - 1280x720*
 
 *I made 1280x720 resolution to look nice on HDMI output, so on TrimUI Smart Pro scaling will look too tiny
